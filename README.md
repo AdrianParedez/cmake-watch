@@ -8,6 +8,10 @@ A lightweight file watcher and build automation tool for CMake-based C++ project
 
 This tool is particularly useful during active development when you need rapid feedback cycles between code changes and testing.
 
+## Demo
+
+![cmake-watch demo](assets/cmake-watch.gif)
+
 ## Features
 
 - Automatic project rebuilding on source file changes
